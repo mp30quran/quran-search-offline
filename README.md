@@ -8,6 +8,9 @@
 ![image](https://github.com/user-attachments/assets/b793a94c-c443-4474-9b23-8a6eb926f75e)
 ![image](https://github.com/user-attachments/assets/7d0c78d5-cff0-49cc-b899-02fedd4c3625)
 
+![image](https://github.com/user-attachments/assets/70d3bcce-7986-4960-96a3-7e45563b8449)
+
+
 **برنامجا للبحث عن كلمة أو جملة في القرآن الكريم ومعرفة رقم السورة الكريمة والآية الكريمة وعدد الآيات التي تحتوي على هذه الكلمة أو الجملة بطريقة رائعة وبسيطة.**  
 يعمل هذا التطبيق بدون الحاجة للاتصال بالإنترنت، ويمكن أيضًا حفظ الصفحة لاستخدامها لاحقًا.
 
