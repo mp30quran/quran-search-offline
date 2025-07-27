@@ -30,7 +30,7 @@
 
 الموقع هنا
 
-https://mp30quransearch.sourceforge.io
+https://mp30quran.github.io/quran-search-offline/index.html
 
 
 لا تنسونا من الدعاء الصالح
